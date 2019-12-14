@@ -1,0 +1,4 @@
+git使用
+
+git clone SSH
+复制到文件夹(不要重复.git包)
